@@ -10,7 +10,8 @@ sleep 2
 # clear
 echo ""
 echo ""
-
+pkg install figlet
+pkg install lolcat
 sudo apt install lolcat
 echo "step 2"
 # clear
