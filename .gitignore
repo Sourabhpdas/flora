@@ -1,0 +1,6 @@
+sites/facebook/ip.txt
+sites/flipcart/log.txt
+sites/google-otp/log.txt
+sites/Zomato-Phishing/log.txt
+.cld.log
+cloudflared

@@ -1,0 +1,10 @@
+
+  Just Select Any Option
+---------------------------- > > >
+[01] Facebook         [02] Instagram                          
+[03] Google           [04] Instagram-Followers                  
+[05] WhatsApp         [06] snapchat                     
+[07] Netflix-TFO      [08] Zomato-Phishing    
+[09] telegram         [10] flipkart
+
+        [11]ctrl+c (exit)
