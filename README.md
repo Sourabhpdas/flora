@@ -25,6 +25,15 @@ I'm a free time tool creator...
 ## Run Locally
 
 Clone the project
+```bash
+apt update
+```
+```bash
+apt upgrade
+```
+```bash
+pkg install git
+```
 
 ```bash
   git clone https://github.com/Sourabhpdas/flora.git
