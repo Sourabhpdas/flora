@@ -10,8 +10,13 @@ sleep 2
 # clear
 echo ""
 echo ""
+apt-get install ruby
+wget https://github.com/busyloop/lolcat/archive/master.zip
+ unzip master.zip
+ cd lolcat-master/bin
+ gem install lolcat
 pkg install figlet
-pkg install lolcat
+#pkg install lolcat
 sudo apt install lolcat
 echo "step 2"
 # clear
