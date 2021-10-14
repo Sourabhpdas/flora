@@ -44,7 +44,11 @@ Go to the project directory
 ```bash
   cd flora
 ```
+setup flora
 
+```bash
+./setup.sh
+```
 Install dependencies
 
 ```bash
