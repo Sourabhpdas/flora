@@ -36,7 +36,7 @@ pkg install git
 ```
 
 ```bash
-  git clone https://github.com/Sourabhpdas/flora.git
+  git clone https://github.com/Sourabhdasp/flora.git
 ```
 
 Go to the project directory
