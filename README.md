@@ -65,10 +65,10 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
   
-## follow on instagram
+## click to follow 
 
-[click to follow](https://instagram.com/sourabhdasp?utm_medium=copy_link)
 
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sourabhpdas )👈
   
 ## Tech Stack
 
