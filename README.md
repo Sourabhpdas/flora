@@ -36,7 +36,7 @@ pkg install git
 ```
 
 ```bash
-  git clone https://github.com/Sourabhdasp/flora.git
+  git clone https://github.com/Sourabhpdas/flora.git
 ```
 
 Go to the project directory
@@ -68,7 +68,7 @@ Please adhere to this project's `code of conduct`.
 ## click to follow 
 
 
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sourabhpdas )👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sourabhdasp )👈
   
 ## Tech Stack
 
